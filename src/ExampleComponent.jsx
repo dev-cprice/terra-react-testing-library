@@ -1,3 +1,6 @@
+// modified example from react-testing-library,
+// @see: https://testing-library.com/docs/react-testing-library/example-intro#full-example
+
 import React from "react";
 import { injectIntl, intlShape } from "react-intl";
 import Button from "terra-button";
